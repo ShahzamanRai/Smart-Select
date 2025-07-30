@@ -22,7 +22,7 @@ Built using **Kotlin** and **Jetpack Compose**, it's designed for large-screen I
 
 ## Screenshot
 
-![Smart Select Demo](https://github.com/ShahzamanRai/SmartSelect/blob/main/Screenshots/SmartSelect_Overlay.png)
+![Smart Select Demo](https://github.com/ShahzamanRai/Smart-Select/blob/main/SmartSelect_Overlay.png)
 
 ## Deployment
 
